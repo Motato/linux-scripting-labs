@@ -1,0 +1,6 @@
+{
+  "title": "Module 5: Automation (Cron)",
+  "description": "Schedule scripts with cron.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Crontab", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}

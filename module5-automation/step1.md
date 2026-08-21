@@ -1,0 +1,2 @@
+# Scheduling
+`crontab -e`{{exec}}

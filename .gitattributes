@@ -1,0 +1,5 @@
+# Enforce LF line endings for scripts and configurations to prevent Linux errors
+*.sh text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+

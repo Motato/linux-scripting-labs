@@ -1,0 +1,14 @@
+{
+  "title": "Module 1: Automated Log Harvester",
+  "description": "Learn variables, conditions, and extraction.",
+  "backend": { "imageid": "ubuntu" },
+  "details": {
+    "intro": { "text": "intro.md", "background": "background.sh" },
+    "steps": [
+      { "title": "Create the Script", "text": "step1.md" },
+      { "title": "Add Logic", "text": "step2.md" },
+      { "title": "Dynamic Input", "text": "step3.md" }
+    ],
+    "finish": { "text": "finish.md" }
+  }
+}

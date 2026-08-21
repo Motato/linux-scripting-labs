@@ -1,0 +1,11 @@
+{
+  "title": "Linux Scripting Course",
+  "description": "A complete guide to Linux Shell Scripting.",
+  "scenarios": [
+    "module1-log-harvester",
+    "module2-bulk-processing",
+    "module3-interactive",
+    "module4-text-processing",
+    "module5-automation"
+  ]
+}

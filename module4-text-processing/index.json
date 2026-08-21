@@ -1,0 +1,6 @@
+{
+  "title": "Module 4: Text Processing Powerhouses",
+  "description": "Master awk, sed, and cut.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Awk & Sed", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}

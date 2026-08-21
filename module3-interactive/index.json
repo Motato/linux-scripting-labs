@@ -1,0 +1,6 @@
+{
+  "title": "Module 3: Interactive Scripts",
+  "description": "Learn to read user input.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Read Command", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}
