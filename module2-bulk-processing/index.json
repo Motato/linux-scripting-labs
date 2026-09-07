@@ -1,6 +1,6 @@
 {
-  "title": "Module 2: Bulk Processing (Loops)",
-  "description": "Learn for and while loops to process multiple files.",
+  "title": "Module 2: Bulk Processing | Módulo 2",
+  "description": "Learn loops. | Aprende bucles.",
   "backend": { "imageid": "ubuntu" },
   "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "For Loops", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
 }

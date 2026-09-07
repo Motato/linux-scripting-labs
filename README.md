@@ -1,3 +1,3 @@
-# Complete Linux Scripting Course
+# Complete Linux Scripting Course (Bilingual)
 
-This repository contains a full 5-module course designed for Killercoda to teach Linux shell scripting to students transitioning from Windows Batch.
+Interactive Killercoda course featuring English/Spanish instructions, interactive hints, and practical examples.

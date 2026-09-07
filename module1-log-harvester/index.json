@@ -1,13 +1,13 @@
 {
-  "title": "Module 1: Automated Log Harvester",
-  "description": "Learn variables, conditions, and extraction.",
+  "title": "Module 1: Automated Log Harvester | Módulo 1",
+  "description": "Learn variables, conditions, and extraction. | Aprende variables, condiciones y extracción.",
   "backend": { "imageid": "ubuntu" },
   "details": {
     "intro": { "text": "intro.md", "background": "background.sh" },
     "steps": [
-      { "title": "Create the Script", "text": "step1.md" },
-      { "title": "Add Logic", "text": "step2.md" },
-      { "title": "Dynamic Input", "text": "step3.md" }
+      { "title": "Variables & Skeleton", "text": "step1.md" },
+      { "title": "Extraction (grep)", "text": "step2.md" },
+      { "title": "Logic (if/else)", "text": "step3.md" }
     ],
     "finish": { "text": "finish.md" }
   }

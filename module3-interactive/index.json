@@ -1,6 +1,6 @@
 {
-  "title": "Module 3: Interactive Scripts",
-  "description": "Learn to read user input.",
+  "title": "Module 3: Interactive Scripts | Módulo 3",
+  "description": "Read user input. | Leer entrada de usuario.",
   "backend": { "imageid": "ubuntu" },
   "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Read Command", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
 }
