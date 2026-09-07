@@ -1,0 +1,6 @@
+{
+  "title": "Module 7: Cloud CLI | Módulo 7",
+  "description": "Run Cloud SDKs from Linux. | Ejecuta SDKs de la nube desde Linux.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Google Cloud SDK", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}

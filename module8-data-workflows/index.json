@@ -1,0 +1,6 @@
+{
+  "title": "Module 8: Data Workflows | Módulo 8",
+  "description": "Pass variables to containers. | Pasa variables a los contenedores.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Env Variables", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}

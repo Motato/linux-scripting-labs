@@ -1,0 +1,6 @@
+{
+  "title": "Module 9: Infrastructure Cleanup | Módulo 9",
+  "description": "Clean up unused resources. | Limpia recursos no utilizados.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "System Prune", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}

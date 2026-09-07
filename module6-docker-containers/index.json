@@ -1,0 +1,6 @@
+{
+  "title": "Module 6: Docker Containers | Módulo 6",
+  "description": "Containerize a Python script. | Conteneriza un script de Python.",
+  "backend": { "imageid": "ubuntu" },
+  "details": { "intro": { "text": "intro.md" }, "steps": [ { "title": "Dockerfile", "text": "step1.md" } ], "finish": { "text": "finish.md" } }
+}
